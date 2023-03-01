@@ -16,3 +16,8 @@ console.log(randomBooleans.shift());
 // removes first element from array and returns that removed element
 // output: true
 // console.log(randomBooleans) = [false, true, false]
+
+// #Understanding of Index Positions
+// The first element of an array is in index position 0.
+// Each subsequent element increases in index position in increments of 1.
+// For example, the index position of "John" in beatlesMembers is 0, "Paul" is 1, "George" is 2, and "Ringo" is 3.
